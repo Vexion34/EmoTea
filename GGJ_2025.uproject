@@ -25,6 +25,57 @@
 		{
 			"Name": "ColorCorrectRegions",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "OnlineBase",
+			"Enabled": false
+		},
+		{
+			"Name": "OodleNetwork",
+			"Enabled": false
+		},
+		{
+			"Name": "TcpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
+		},
+		{
+			"Name": "CmdLinkServer",
+			"Enabled": false
 		}
 	]
 }
